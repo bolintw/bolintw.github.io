@@ -24,4 +24,4 @@ This blog is an honest account of that struggle. It's not a collection of perfec
 
 ### Let's Connect
 
-I'm always open to connecting with fellow engineers, makers, and potential collaborators. You can find me on the platforms listed in the sidebar, or see the code for this blog (and my other projects) directly on [GitHub](httpss://github.com/bolintw) or [mail](k2345777@gmail.com).
+I'm always open to connecting with fellow engineers, makers, and potential collaborators. You can find me on the platforms listed in the sidebar, or see the code for this blog (and my other projects) directly on [GitHub](httpss://github.com/bolintw) or mail to k2345777@gmail.com.
