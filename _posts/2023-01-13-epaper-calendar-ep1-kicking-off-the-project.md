@@ -6,6 +6,10 @@ tags: [diy, iot, epaper]
 image: /assets/img/2023-01-13-epaper-calendar-ep1-kicking-off-the-project/1_WZ11xMxszC_aFozGy8DY_w.webp
 ---
 
+This article is **migrated** from [Medium](https://medium.com/@k2345777/電子紙實體google月曆計畫啟用-af66055b025d) and **traslated** by Gemini pro 2.5.
+
+---
+
 I've decided to start a new project: building a physical Google Calendar display using an e-paper screen.
 
 ### Why a Physical Google Calendar?
@@ -50,7 +54,7 @@ Next, I listed out the challenges I can anticipate:
 1.  **Driving the E-Paper Display:** This shouldn't be a huge problem, but since I've never used one, I don't know how deep the water is.
 2.  **Fetching Google Calendar Data:** There should be plenty of resources online for this.
 3.  **Efficient Display Rendering:** I'm thinking I'll need to divide the screen into several "regions" to manage and update them efficiently.
-4.  **Displaying Chinese Characters:** This is the biggest bottleneck I can think of right now, and it has the potential to kill the entire project.
+4.  **Displaying Mandarin Characters:** This is the biggest bottleneck I can think of right now, and it has the potential to kill the entire project.
 
 ...Unfortunately, I only thought of this *after* I had already bought the screen. Oh well, I'm already in too deep.
 
