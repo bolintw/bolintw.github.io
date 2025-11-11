@@ -6,7 +6,7 @@ tags: [diy, iot, epaper]
 image: /assets/img/2023-01-13-epaper-calendar-ep1-kicking-off-the-project/1_WZ11xMxszC_aFozGy8DY_w.webp
 ---
 
-This article is **migrated** from [Medium](https://medium.com/@k2345777/電子紙實體google月曆計畫啟用-af66055b025d) and **traslated** by Gemini pro 2.5.
+This article is **migrated** from [Medium](https://medium.com/@k2345777/電子紙實體google月曆計畫啟用-af66055b025d) and **translated** by Gemini pro 2.5.
 
 ---
 
