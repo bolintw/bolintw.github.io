@@ -1,5 +1,5 @@
 ---
-title: "E-paper calendar ep1: kicking off the project"
+title: "E-Paper Calendar Ep1 - Kicking off the project"
 date: 2023-01-13 10:00:00 +0800
 categories: [DIY, E-Paper calendar ver1]
 tags: [diy, iot, epaper]
