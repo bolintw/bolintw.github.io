@@ -35,15 +35,7 @@ After that, I just followed the official documentation: enable the SPI periphera
 
 ![First screen refresh](/assets/img/2023-01-21-epaper-calendar-ep2-epaper-screen/1_jUd_xMzg0_OEPo-O7a0MMg.webp)
 
-<div class="ratio ratio-16x9 mx-auto" style="max-width: 800px;">
-  <iframe 
-    src="https://www.youtube.com/embed/qqOuStTM99s?si=JvNJdTyUzn52CRWI" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
+[![Demo video](/assets/img/2023-01-21-epaper-calendar-ep2-epaper-screen/thumbnail.png)](https://youtu.be/qqOuStTM99s?si=n59ECyucnQ10M45T)
 
 As you can see from the video, a full screen refresh takes over ten seconds, which is pretty close to the 16 seconds stated in the official specs. The display quality is actually quite beautiful, and the 800x480 resolution should be sufficient.
 
