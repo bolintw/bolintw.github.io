@@ -2,7 +2,7 @@
 title: "E-Paper Calendar Ep.2 — The E-Paper Display"
 date: 2023-01-21 10:00:00 +0800
 categories: [DIY, E-Paper calendar ver1]
-tags: [diy, iot, epaper]
+tags: [diy, iot, epaper, rpi]
 image: /assets/img/2023-01-21-epaper-calendar-ep2-epaper-screen/1_4YaUCUPm8-48xFqim9DCtw.webp
 ---
 
