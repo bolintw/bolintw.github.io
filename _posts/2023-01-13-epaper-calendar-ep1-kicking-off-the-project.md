@@ -1,8 +1,8 @@
 ---
-title: "E-Paper Calendar Ep1 - Kicking Off The Project"
+title: "E-Paper Calendar Ep.1 - Kicking Off The Project"
 date: 2023-01-13 10:00:00 +0800
 categories: [DIY, E-Paper calendar ver1]
-tags: [diy, iot, epaper, rpi4]
+tags: [diy, iot, epaper, raspberry-pi, ecalendar]
 image: /assets/img/2023-01-13-epaper-calendar-ep1-kicking-off-the-project/1_WZ11xMxszC_aFozGy8DY_w.webp
 ---
 
