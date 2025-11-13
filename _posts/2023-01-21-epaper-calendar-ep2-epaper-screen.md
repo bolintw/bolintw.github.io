@@ -35,7 +35,7 @@ After that, I just followed the official documentation: enable the SPI periphera
 
 ![First screen refresh](/assets/img/2023-01-21-epaper-calendar-ep2-epaper-screen/1_jUd_xMzg0_OEPo-O7a0MMg.webp)
 
-<div class="ratio ratio-16x9 mx-auto" style="max-width: 600px;">
+<div class="ratio ratio-16x9 mx-auto" style="max-width: 800px;">
   <iframe 
     src="https://www.youtube.com/embed/qqOuStTM99s?si=JvNJdTyUzn52CRWI" 
     title="YouTube video player" 
