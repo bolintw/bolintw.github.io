@@ -2,7 +2,7 @@
 layout: post
 title: "E-Paper Calendar Ep.3 — Fetching Calendar Data and Displaying It"
 date: 2023-04-17 10:00:00 +0800
-categories: [DIY, E-Paper, Raspberry Pi]
+categories: [DIY, E-Paper calendar ver1]
 tags: [google-calendar, python, raspberry-pi, diy, iot, epaper]
 image: /assets/img/2023-04-17-epaper-calendar-ep3-fetching-calendar-data-and-displaying/1_XJ2dqPE1cr7NJoaUnEEkMA.webp
 ---

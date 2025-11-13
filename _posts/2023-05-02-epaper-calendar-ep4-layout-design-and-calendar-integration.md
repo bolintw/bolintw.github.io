@@ -2,7 +2,7 @@
 layout: post
 title: "E-Paper Calendar Ep.4 — Layout Design and Calendar Integration"
 date: 2023-05-02 10:00:00 +0800
-categories: [DIY, E-Paper, Design]
+categories: [DIY, E-Paper calendar ver1]
 tags: [chatgpt, ics, python, google-calendar, raspberry-pi, diy, iot, epaper]
 image: /assets/img/2023-05-02-epaper-calendar-ep4-layout-design-and-calendar-integration/0_f0HCnLfcgkcPmxX8.webp
 ---
