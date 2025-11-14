@@ -7,7 +7,7 @@ tags: [chatgpt, ics, python, google-calendar, raspberry-pi, diy, iot, epaper]
 image: /assets/img/2023-05-02-epaper-calendar-ep4-layout-design-and-calendar-integration/0_f0HCnLfcgkcPmxX8.webp
 ---
 
-This article is **migrated** from [Medium](https://medium.com/@k2345777/%E9%9B%BB%E5%AD%90%E7%B4%99google%E6%9C%88%E6%9B%86ep-4-%E8%A8%AD%E8%A8%88%E7%95%AB%E9%9D%A2%E5%8F%8A%E8%A1%8C%E4%BA%8B%E6%9B%86%E6%95%B4%E5%90%88-a583a2f3c5bf and) **translated** by Gemini pro 2.5.
+This article is **migrated** from [Medium](https://medium.com/@k2345777/%E9%9B%BB%E5%AD%90%E7%B4%99google%E6%9C%88%E6%9B%86ep-4-%E8%A8%AD%E8%A8%88%E7%95%AB%E9%9D%A2%E5%8F%8A%E8%A1%8C%E4%BA%8B%E6%9B%86%E6%95%B4%E5%90%88-a583a2f3c5bf) and **translated** by Gemini pro 2.5.
 
 ---
 

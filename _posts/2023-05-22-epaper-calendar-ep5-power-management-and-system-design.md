@@ -7,7 +7,7 @@ tags: [power-management, battery, pisugar, raspberry-pi, rtc, system-design, diy
 image: /assets/img/2023-05-22-epaper-calendar-ep5-power-management-and-system-design/1_Ysc7J9IVOh6i91Iol_KHfQ.webp
 ---
 
-This article is **migrated** from [Medium](https://medium.com/@k2345777/%E9%9B%BB%E5%AD%90%E7%B4%99google%E6%9C%88%E6%9B%86ep-5-%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86%E5%8F%8A%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88-8335546174d4) **translated** by Gemini pro 2.5.
+This article is **migrated** from [Medium](https://medium.com/@k2345777/%E9%9B%BB%E5%AD%90%E7%B4%99google%E6%9C%88%E6%9B%86ep-5-%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86%E5%8F%8A%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88-8335546174d4) and **translated** by Gemini pro 2.5.
 
 ---
 
@@ -17,7 +17,7 @@ If I wanted to handle the battery myself, I could, but I'd need to find a separa
 
 But to achieve a "shutdown and wake-up" cycle, I would need *another* external RTC (Real-Time Clock) module. Trying to wire up all these separate modules (battery, charger, RTC) and fit them neatly into a frame... just thinking about it gives me a headache.
 
-![piSugar Module](/assets/img/2023-05-22-epaper-calendar-ep5-power-management-and-system-design/0_kafx14PKktK3YzXv.webp)
+![PiSugar Module](/assets/img/2023-05-22-epaper-calendar-ep5-power-management-and-system-design/0_kafx14PKktK3YzXv.webp)
 
 For DIY projects, the most convenient path is to find a pre-integrated module. If I had to reinvent the wheel and assemble everything myself, it wouldn't just slow down the project; it would make the whole process tedious.
 
