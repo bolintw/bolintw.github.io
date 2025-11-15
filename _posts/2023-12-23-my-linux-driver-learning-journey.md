@@ -2,7 +2,7 @@
 layout: post
 title: "My Linux Driver Learning Journey"
 date: 2023-12-23 10:00:00 +0800
-categories: [Career, Linux]
+categories: [Linux, Driver]
 tags: [linux, kernel, driver, embedded, rtos, raspberry-pi, makefile]
 image: /assets/img/2023-12-23-my-linux-driver-learning-journey/1_lmQycP40bMgxZRKN_PzNTA.webp
 ---
