@@ -48,8 +48,6 @@ This way, users only see a permanent "Bathroom Speaker" on their phones. When I 
 * **The Speaker:** **IKEA VAPPEBY** Bluetooth Speaker.
     * *Why?* It’s waterproof, affordable, and crucially, it has an **auto-off feature** when disconnected for a while. This is vital for the power-saving logic I planned.
 
-![The hardware setup: RPi 4 and IKEA Speaker](placeholder)
-
 ### The Technical Challenge: Latency and Linux Audio
 
 I initially thought this would be a simple `AirPlay -> Bluetooth` relay. I was wrong. The Linux audio stack is a notoriously deep rabbit hole.
@@ -145,8 +143,6 @@ dtparam=pwr_led_activelow=off
 dtparam=act_led_trigger=none
 dtparam=act_led_activelow=off
 ```
-
-![The final setup running cleanly](placeholder)
 
 ### The Result: It Just Works
 
