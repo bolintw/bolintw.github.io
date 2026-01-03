@@ -153,7 +153,7 @@ After adding the Shairport device to Apple Home, the experience is seamless:
 3.  I walk into the bathroom and press the power button on the IKEA speaker.
 4.  **BEEP.** The music automatically fades in.
 
-I can pause the music to wash my hair without losing the connection. When I'm done and stop playback, the RPi cuts the link after 2 minutes, and the speaker powers itself down 20 minutes later.
+I can pause the music to wash my hair without losing the connection. When I'm done and stop playback, the RPi cuts the link after 2 minutes, and the speaker powers itself down 5 minutes later.
 
 I can now ask Siri to "Set the shower scene," which dims the bathroom lights and plays a jazz playlist. Technology is at its best when you don't notice it's there—it just solves your problem.
 
